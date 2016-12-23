@@ -1,25 +1,34 @@
-#top
-	@extend %flex
-	position: relative
-	height: 100vh
-	background: url(../img/bgh.png) no-repeat top center / cover
+.bg-wall
+  position: relative
+  height: 100vh
+  header
+    @extend %flex
+    flex-basis: 100%
+    justify-content: space-between
+    align-self: flex-end
+    flex-direction: row
+    .logo
+      display: block
+      justify-content: space-between
+      h1
+        a
+          font-size: 25px
+          color: #39c9da
+          span
+            color: white
+    .menu1
+      margin-top: 5px
+      nav
+        ul
+          li
+            text-align: center
+            flex-wrap: wrap
+            a
+              color: #ffffff
+              text-transform: uppercase
+              font-size: 8px
 
-.wrapper
-	height: 100%
-	align-items: center
-	header
-		@extend %flex
-		flex-basis: 100%
-		justify-content: space-between
-		align-self: flex-start
-		.logo
-			display: block
-			h1
-				a
-					font-size: 25px
-					color: #39c9da
-					span
-						color: white
+
 
 
 
