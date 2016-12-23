@@ -76,10 +76,60 @@ p {
   border-radius: 1px; }
 
 .wrapper {
-  margin: 0 20px; }
+  margin: 0 auto;
+  margin-min-width: 320px;
+  margin-position: relative;
+}
+
+#top, .wrapper header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
 
 #top {
-  background: url(../img/bgh.png) no-repeat top center; }
+  position: relative;
+  height: 100vh;
+  background: url(../img/bgh.png) no-repeat top center/cover;
+}
+
+.wrapper {
+  height: 100%;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.wrapper header {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.wrapper header .logo {
+  display: block;
+}
+
+.wrapper header .logo h1 a {
+  font-size: 25px;
+  color: #39c9da;
+}
+
+.wrapper header .logo h1 a span {
+  color: white;
+}
 
 .about {
   background-color: #fff;

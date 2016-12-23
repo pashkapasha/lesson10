@@ -1,7 +1,25 @@
 #top
-	background: url(../img/bgh.png) no-repeat top center
-	header
+	@extend %flex
+	position: relative
+	height: 100vh
+	background: url(../img/bgh.png) no-repeat top center / cover
 
+.wrapper
+	height: 100%
+	align-items: center
+	header
+		@extend %flex
+		flex-basis: 100%
+		justify-content: space-between
+		align-self: flex-start
+		.logo
+			display: block
+			h1
+				a
+					font-size: 25px
+					color: #39c9da
+					span
+						color: white
 
 
 
