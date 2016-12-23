@@ -1,0 +1,276 @@
+:link, :visited {
+  text-decoration: none; }
+
+ul, ol {
+  list-style: none; }
+
+h1, h2, h3, h4, h5, h6, pre, code {
+  font-size: 1em; }
+
+ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input {
+  margin: 0;
+  padding: 0; }
+
+a img, :link img, :visited img {
+  border: none; }
+
+address {
+  font-style: normal; }
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+  color: #666; }
+
+body input:required:valid,
+body textarea:required:valid {
+  color: #666; }
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-width: 100%;
+  line-height: 1.6;
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  background-color: #fff; }
+
+h1 {
+  color: #39c9da; }
+
+h3 {
+  font-size: 20px;
+  color: #504f50; }
+
+h2 {
+  font-size: 33px;
+  color: #fff; }
+
+p {
+  font-size: 14px;
+  color: #a8a8a8; }
+
+.blue-buttom {
+  width: 201px;
+  height: 55px;
+  background-color: #39c9da;
+  -webkit-border-radius: 3px;
+          border-radius: 3px;
+  color: #fff; }
+  .blue-buttom:hover {
+    background-color: #323030;
+    color: #39c9da;
+    -webkit-border-radius: 3px;
+            border-radius: 3px; }
+
+.grey-buttom {
+  width: 129px;
+  height: 35px;
+  background-color: #4b4a4b;
+  color: white;
+  -webkit-border-radius: 1px;
+          border-radius: 1px;
+  background-color: white;
+  color: #323030;
+  border-radius: 1px; }
+
+.wrapper {
+  margin: 0 20px; }
+
+#top {
+  background: url(../img/bgh.png) no-repeat top center; }
+
+.about {
+  background-color: #fff;
+  margin-top: 30px;
+  text-align: center;
+  color: #576671; }
+  .about h2 {
+    font-weight: 300; }
+  .about span {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 13px 10px 13px 10px;
+    border: 1px solid #edeff1;
+    -webkit-border-radius: 50%;
+            border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background-color: #edeff1; }
+    .about span img {
+      -webkit-filter: invert(50%);
+              filter: invert(50%); }
+    .about span:hover {
+      background-color: #17daa3;
+      -webkit-transition-duration: 2s;
+              transition-duration: 2s;
+      -webkit-transform: rotate(360deg);
+          -ms-transform: rotate(360deg);
+              transform: rotate(360deg);
+      -webkit-animation: roll 3s infinite;
+              animation: roll 3s infinite;
+      opacity: 1; }
+      .about span:hover img {
+        -webkit-filter: invert(100%);
+                filter: invert(100%); }
+  .about h3 {
+    color: #000; }
+
+.learn-button {
+  padding: 5px 0 0 0;
+  text-align: center; }
+  .learn-button a {
+    padding: 5px 17px;
+    border: 1px solid #17daa3;
+    -webkit-border-radius: 25px;
+            border-radius: 25px;
+    background-color: #17daa3;
+    color: white; }
+    .learn-button a:hover {
+      background-color: #edeff1;
+      color: #17daa3;
+      border-color: #edeff1;
+      text-decoration: none; }
+    .learn-button a:active {
+      background-color: #edeff1;
+      color: #17daa3;
+      border-color: #edeff1;
+      text-decoration: none; }
+
+p {
+  padding: 25px 0;
+  line-height: 1.8; }
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .about {
+    margin-top: 60px; }
+    .about h2 {
+      font-size: 35px; }
+    .about h3 {
+      font-size: 20px; }
+    .about p {
+      margin: 0 auto;
+      padding: 20px;
+      font-size: 15px; }
+    .about span {
+      padding: 28px 10px 13px 10px;
+      width: 90px;
+      height: 90px; }
+    .about .learn-button {
+      padding: 20px 0 0 0; }
+      .about .learn-button a {
+        padding: 7px 35px; } }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .about {
+    margin-top: 80px; }
+    .about h2 {
+      font-size: 45px;
+      margin-bottom: 30px; }
+    .about h3 {
+      font-size: 30px; }
+    .about p {
+      margin: 0 auto;
+      padding: 20px;
+      font-size: 15px; }
+    .about span {
+      padding: 43px 10px 13px 10px;
+      width: 120px;
+      height: 120px;
+      margin-top: 80px;
+      margin-bottom: 40px; }
+    .about .learn-button {
+      padding: 40px 0 0 0; } }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .about {
+    margin-top: 80px; }
+    .about h2 {
+      font-size: 60px;
+      margin-bottom: 30px; }
+    .about h3 {
+      font-size: 30px; }
+    .about p {
+      margin: 0 auto;
+      padding: 20px;
+      font-size: 16px; }
+    .about .resp-cont {
+      width: 290px; }
+    .about span {
+      padding: 43px 10px 13px 10px;
+      width: 120px;
+      height: 120px;
+      margin-top: 80px;
+      margin-bottom: 40px; }
+    .about .learn-button {
+      padding: 100px 0 0 0; } }
+
+.content-block {
+  margin-top: 30px;
+  width: 100%;
+  background-color: rgba(237, 239, 241, 0.45); }
+  .content-block h2 {
+    margin-top: 30px; }
+  .content-block p {
+    padding: 20px 0; }
+  .content-block .bot-header {
+    padding-top: 30px; }
+  .content-block .learn-button {
+    margin: 20px 0; }
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .content-block {
+    margin-top: 60px; }
+    .content-block h2 {
+      font-size: 35px; }
+    .content-block .bot-header {
+      padding-top: 60px; }
+    .content-block p {
+      margin: 0 auto;
+      font-size: 15px; }
+    .content-block .learn-button {
+      padding: 20px 0 0 0; }
+      .content-block .learn-button a {
+        padding: 7px 35px; } }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .content-block {
+    margin-top: 120px; }
+    .content-block h2 {
+      font-size: 45px;
+      margin-bottom: 30px; }
+    .content-block .bot-header {
+      padding-top: 120px; }
+    .content-block p {
+      margin: 0 auto;
+      font-size: 15px; }
+    .content-block .resp-cont {
+      width: 478px;
+      margin: 0; }
+    .content-block .learn-button {
+      padding: 40px 0 0 0; } }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .content-block {
+    margin-top: 230px; }
+    .content-block h2 {
+      font-size: 60px;
+      margin-bottom: 30px; }
+    .content-block .bot-header {
+      padding-top: 230px; }
+    .content-block p {
+      margin: 0 auto;
+      font-size: 16px; }
+    .content-block .resp-cont {
+      width: 524px;
+      margin: 0; }
+    .content-block .learn-button {
+      padding: 100px 0 0 0; } }

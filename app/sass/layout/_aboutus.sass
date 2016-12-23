@@ -1,0 +1,127 @@
+.about
+	background-color: #fff
+	margin-top: 30px	
+	text-align: center
+	color: #576671
+	h2
+		font-weight: 300
+	span
+		display: block
+		margin: 0 auto
+		margin-bottom: 15px
+		padding: 13px 10px 13px 10px
+		border: 1px solid #edeff1
+		border-radius: 50%
+		width: 60px
+		height: 60px
+		background-color: #edeff1
+		img
+			filter: invert(50%)	
+					
+		&:hover
+			background-color: #17daa3
+			transition-duration: 2s
+			transform: rotate(360deg)
+			animation: roll 3s infinite
+			opacity: 1
+			img
+				filter: invert(100%)
+	h3
+		color: #000
+.learn-button
+	padding: 5px 0 0 0
+	text-align: center
+	a
+		padding: 5px 17px
+		border: 1px solid #17daa3
+		border-radius: 25px
+		background-color: #17daa3
+		color: white
+		&:hover
+			background-color: #edeff1
+			color: #17daa3
+			border-color: #edeff1
+			text-decoration: none
+		&:active
+			background-color: #edeff1
+			color: #17daa3
+			border-color: #edeff1
+			text-decoration: none
+p
+	padding: 25px 0
+	line-height: 1.8
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) 
+	.about
+		margin-top: 60px
+		h2
+			font-size: 35px
+		h3
+			font-size: 20px
+		p
+			margin: 0 auto
+			padding: 20px
+			font-size: 15px
+		span
+			padding: 28px 10px 13px 10px
+			width: 90px
+			height: 90px
+		.learn-button
+			padding: 20px 0 0 0
+			a
+				padding: 7px 35px
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) 
+	.about
+		margin-top: 80px
+		h2
+			font-size: 45px
+			margin-bottom: 30px
+		h3
+			font-size: 30px
+		p
+			margin: 0 auto
+			padding: 20px
+			font-size: 15px
+		span
+			padding: 43px 10px 13px 10px
+			width: 120px
+			height: 120px
+			margin-top: 80px 
+			margin-bottom: 40px
+		.learn-button
+			padding: 40px 0 0 0
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) 
+	.about
+		margin-top: 80px
+		h2
+			font-size: 60px
+			margin-bottom: 30px
+		h3
+			font-size: 30px
+		p
+			margin: 0 auto
+			padding: 20px
+			font-size: 16px
+		.resp-cont
+			width: 290px
+		span
+			padding: 43px 10px 13px 10px
+			width: 120px
+			height: 120px
+			margin-top: 80px 
+			margin-bottom: 40px
+		.learn-button
+			padding: 100px 0 0 0
+
+
+
+
+
+
+
