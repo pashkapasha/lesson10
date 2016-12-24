@@ -1,0 +1,67 @@
+.services
+  .text-no-flex
+    h3
+      text-transform: uppercase
+      margin-bottom: 25px
+  .service-block
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: space-between
+    text-align: center
+    .info-block
+      width: 255px
+      height: 330px
+      margin-top: 20px
+      margin-left: 25px
+      &:hover
+        background-color: #39c9da
+        h4
+          color: #fff
+        .fa
+          color: #fff
+        p
+          color: #ffffff
+        .grey-buttom
+          background-color: #ffffff
+        a
+          color: #000
+      .fa
+        padding-top: 25px
+        color: #39c9da
+        font-size: 33px
+
+      h4
+        font-weight: bold
+        text-transform: uppercase
+        padding-top: 25px
+        &::after
+          content: ''
+          display: block
+          width: 75px
+          height: 2px
+          margin: 15px auto
+          margin-bottom: 30px
+          background-color: #c2c2c2
+      p
+        margin-bottom: 30px
+      a
+        margin-top: 20px
+        padding: 10px 20px
+
+@media (min-width: 768px)
+  .services
+    .service-block
+      display: flex
+      flex-direction: row
+      .info-block
+        width: 255px
+        height: 350px
+        margin-top: 45px
+
+@media (min-width: 992px)
+  .services
+    .service-block
+      .info-block
+        height: 320px
+
