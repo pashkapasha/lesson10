@@ -1,32 +1,81 @@
 .bg-wall
   position: relative
-  height: 100vh
+  height: 440px
   header
     @extend %flex
     flex-basis: 100%
     justify-content: space-between
     align-self: flex-end
     flex-direction: row
+    margin: 0 auto
     .logo
-      display: block
+      display: flex
       justify-content: space-between
       h1
         a
-          font-size: 25px
+          font-size: 30px
           color: #39c9da
           span
             color: white
-    .menu1
-      margin-top: 5px
-      nav
-        ul
-          li
-            text-align: center
-            flex-wrap: wrap
-            a
-              color: #ffffff
-              text-transform: uppercase
-              font-size: 8px
+  .hero
+    @extend %flex
+    flex-direction: column
+    align-self: flex-start
+    text-align: center
+    margin-top: 40px
+    .content-hero
+      margin-bottom: 20px
+      h2
+        text-transform: uppercase
+        font-size: 22px
+    .buttom-1
+      a
+        padding: 10px 20px
+        text-transform: uppercase
+
+@media (min-width: 768px)
+  .bg-wall
+    height: auto
+    header
+      padding-top: 20px
+    .hero
+      width: 510px
+      margin: 0 auto
+      margin-top: 120px
+      .content-hero
+        h2
+          font-size: 33px
+      .buttom-1
+        margin-bottom: 40px
+
+@media (min-width: 992px)
+  .bg-wall
+    header
+      padding-top: 40px
+    .hero
+      width: 510px
+      margin: 0 auto
+      margin-top: 170px
+      .content-hero
+        h2
+          font-size: 33px
+      .buttom-1
+        margin-bottom: 80px
+
+@media (min-width: 1200px)
+  .bg-wall
+    header
+      padding-top: 40px
+    .hero
+      width: 510px
+      margin: 0 auto
+      margin-top: 210px
+      .content-hero
+        h2
+          font-size: 33px
+      .buttom-1
+        margin-bottom: 100px
+
 
 
 
