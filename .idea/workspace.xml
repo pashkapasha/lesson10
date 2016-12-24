@@ -1,72 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa2eea01-cb4b-4335-8f5a-021ee46cca8e" name="Default" comment="applied new properties of general styles">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/font-awesome-4.6.3/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/fonts/slick.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/fonts/slick.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/fonts/slick.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/fonts/slick.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick-theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick-theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/slick/slick.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/sass/layout/_aboutus.sass" afterPath="" />
+    <list default="true" id="fa2eea01-cb4b-4335-8f5a-021ee46cca8e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="$PROJECT_DIR$/app/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/slick/script.js" afterPath="$PROJECT_DIR$/app/libs/slick/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/slick/style.css" afterPath="$PROJECT_DIR$/app/libs/slick/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/base/_base.sass" afterPath="$PROJECT_DIR$/app/sass/base/_base.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/base/_media.sass" afterPath="$PROJECT_DIR$/app/sass/base/_media.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/layout/_about.sass" afterPath="$PROJECT_DIR$/app/sass/layout/_about.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/layout/_footer.sass" afterPath="$PROJECT_DIR$/app/sass/layout/_footer.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/layout/_forms.sass" afterPath="$PROJECT_DIR$/app/sass/layout/_forms.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/layout/_services.sass" afterPath="$PROJECT_DIR$/app/sass/layout/_services.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,8 +41,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="88">
-                  <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+                <state relative-caret-position="234">
+                  <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
@@ -108,11 +52,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="_forms.sass" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_forms.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/sass/layout/_forms.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+                <state relative-caret-position="235">
+                  <caret line="608" column="5" lean-forward="false" selection-start-line="608" selection-start-column="5" selection-end-line="608" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -121,18 +65,18 @@
           <file leaf-file-name="_base.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/base/_base.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="103">
-                  <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+                <state relative-caret-position="189">
+                  <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_about.sass" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_about.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/layout/_about.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <state relative-caret-position="285">
+                  <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -143,6 +87,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="45">
                   <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/base/_media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -210,14 +164,14 @@
         <option value="$PROJECT_DIR$/app/js/common.js" />
         <option value="$PROJECT_DIR$/app/sass/layout/_navigation.sass" />
         <option value="$PROJECT_DIR$/app/sass/layout/_header.sass" />
-        <option value="$PROJECT_DIR$/app/sass/base/_media.sass" />
         <option value="$PROJECT_DIR$/app/sass/layout/_footer.sass" />
         <option value="$PROJECT_DIR$/app/sass/layout/_services.sass" />
-        <option value="$PROJECT_DIR$/app/sass/layout/_forms.sass" />
         <option value="$PROJECT_DIR$/app/sass/main.sass" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sass/base/_base.sass" />
+        <option value="$PROJECT_DIR$/app/sass/base/_media.sass" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sass/layout/_about.sass" />
+        <option value="$PROJECT_DIR$/app/sass/layout/_forms.sass" />
       </list>
     </option>
   </component>
@@ -232,9 +186,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="65" />
-    <option name="width" value="1260" />
-    <option name="height" value="672" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -464,6 +417,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -544,7 +498,7 @@
       <workItem from="1482494104868" duration="1584000" />
       <workItem from="1482495973595" duration="1062000" />
       <workItem from="1482497157390" duration="168000" />
-      <workItem from="1482497382469" duration="32250000" />
+      <workItem from="1482497382469" duration="33910000" />
     </task>
     <task id="LOCAL-00001" summary="Finish with preferences and going to work">
       <created>1482498435379</created>
@@ -644,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482597654616</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add and stiled block about">
+      <created>1482605776902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1482605776902</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35064000" />
+    <option name="totallyTimeSpent" value="36724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,10 +621,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="65" width="1260" height="672" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20279147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19951534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10344828" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22068965" sideWeight="0.50656813" order="7" side_tool="true" content_ui="tabs" />
@@ -672,7 +633,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2724138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13793103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3808219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -706,7 +667,8 @@
     <MESSAGE value="styled about block" />
     <MESSAGE value="added code for about block" />
     <MESSAGE value="styled services block" />
-    <option name="LAST_COMMIT_MESSAGE" value="styled services block" />
+    <MESSAGE value="add and stiled block about" />
+    <option name="LAST_COMMIT_MESSAGE" value="add and stiled block about" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -795,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/base/_media.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/libs.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -843,14 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/layout/_footer.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -859,34 +805,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/layout/_forms.sass">
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/base/_base.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="189">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/base/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/layout/_about.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="234">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/layout/_forms.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="608" column="5" lean-forward="false" selection-start-line="608" selection-start-column="5" selection-end-line="608" selection-end-column="5" />
           <folding />
         </state>
       </provider>
