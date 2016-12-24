@@ -20,6 +20,7 @@ h1
 h3
 	font-size: 20px
 	color: #504f50
+    text-transform: uppercase
 h2
 	font-size: 33px
 	color: #fff
@@ -31,9 +32,11 @@ p
 	height: 55px
 	background-color: #39c9da
 	border-radius: 3px
+    text-transform: uppercase
 	color: #fff
+
 	&:hover
-		background-color: #323030
+    background-color: #fff #39c9da
 		color: #39c9da
 		border-radius: 3px
 .grey-buttom
@@ -43,15 +46,31 @@ p
 	color: white
 	border-radius: 1px
 	&:hover
-	background-color: white
-	color: #323030
-	border-radius: 1px
+    background-color: white
+    color: #323030
+    border-radius: 1px
 .wrapper
-  margin: 0 auto
-    min-width: 320px
-    position: relative
+  margin: 0 20px
+  position: relative
 
 %flex
   display: flex
   flex-wrap: wrap
+
+.img-responsive
+  display: block
+  max-width: 100%
+  height: auto
+
+.bg-wall
+  background: url(../img/bgh.png) no-repeat top center
+
+@media (min-width: 992px)
+  .wrapper
+    margin: 0 60px
+
+@media (min-width: 1200px)
+  .wrapper
+    margin: 0 120px
+
 
