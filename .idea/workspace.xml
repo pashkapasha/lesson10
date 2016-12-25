@@ -41,8 +41,13 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
                 <state relative-caret-position="159">
                   <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+=======
+                <state relative-caret-position="234">
+                  <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+>>>>>>> Stashed changes
                   <folding />
                 </state>
               </provider>
@@ -67,7 +72,9 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="780">
                   <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-                  <folding />
+                  <folding>
+                    <marker date="1482607995000" expanded="true" signature="597:633" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -498,8 +505,12 @@
       <workItem from="1482494104868" duration="1584000" />
       <workItem from="1482495973595" duration="1062000" />
       <workItem from="1482497157390" duration="168000" />
+<<<<<<< Updated upstream
       <workItem from="1482497382469" duration="33958000" />
       <workItem from="1482608124463" duration="10000" />
+=======
+      <workItem from="1482497382469" duration="34025000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Finish with preferences and going to work">
       <created>1482498435379</created>
@@ -617,7 +628,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="36782000" />
+=======
+    <option name="totallyTimeSpent" value="36839000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -703,6 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/base/_base.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="780">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
@@ -730,6 +746,13 @@
         <state relative-caret-position="480">
           <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482607995000" expanded="true" signature="597:633" ph="..." />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -861,7 +884,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1482607995000" expanded="true" signature="597:633" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -883,8 +908,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/layout/_forms.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="235">
           <caret line="608" column="5" lean-forward="false" selection-start-line="608" selection-start-column="5" selection-end-line="608" selection-end-column="5" />
+=======
+        <state relative-caret-position="234">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
